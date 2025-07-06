@@ -1,5 +1,7 @@
 # The Type Boy 40
 
+![The TypeBoy PCB.](images/pcb.jpg)
+
 This keyboard is a test bed for the revised TyepPak Advance microcontroller breakout board. It's a relatively simple 4x12 ortholinear keyboard.
 
 ## Features
